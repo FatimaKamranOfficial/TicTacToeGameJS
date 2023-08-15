@@ -30,13 +30,6 @@ nav {
 
 }
 
-.line {
-    background-color: #bf15e470;
-    height: 3px;
-    width: 0;
-    position: absolute;
-    transition: width 1s ease-in-out;
-}
 
 /* grid for game */
 .container {
